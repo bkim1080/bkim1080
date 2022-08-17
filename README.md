@@ -2,7 +2,7 @@
 
 ##  👤 About Me
 
-Hello! I'm Bryan. I'm a software developer with a passion for solving real-world problems through the power of code! With a diverse background and experience in different fields, I was able to find my true strengths and passions which lie in the world of software development.
+Hello, I'm Bryan! I'm a software developer with a passion for solving real-world problems through the power of code. With a diverse background and experience in different fields, I was able to find my true strengths and passions which lie in the world of software development.
 
 ##  📊 Skills
 ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
