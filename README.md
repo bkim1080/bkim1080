@@ -17,3 +17,9 @@ I'm a software developer with a passion for solving real-world problems through 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bkim1080&theme=default&show_icons=true&count_private=true)
 
+##  📊 Skills
+![Javascript badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React JS badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NPM badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+
