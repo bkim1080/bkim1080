@@ -1,6 +1,7 @@
-![github-header-image](https://user-images.githubusercontent.com/93671113/185201141-1e1bde24-2c84-4545-a5b8-e6e6dfe56701.png)
+![header-image](https://user-images.githubusercontent.com/93671113/185202398-e26bd3ca-4c0a-4d6a-950a-222d75bfdf98.png)
 
 ##  👤 About Me
+
 I'm a software developer with a passion for solving real-world problems through the power of code! With a diverse background and experience in different fields, I was able to find my true strengths and passions which lie in the world of software development.
 
 ##  📊 Skills
