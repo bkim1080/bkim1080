@@ -1,6 +1,6 @@
 ### Hello! I'm Bryan! 👋
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bkim1080&layout=compact)
 
 <!--
 **bkim1080/bkim1080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
