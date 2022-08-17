@@ -1,6 +1,7 @@
 
+![image](https://user-images.githubusercontent.com/93671113/185154832-b500c85f-7a26-40dc-9395-350a72c44268.png)
+
 ##  👤 About Me
-### Hello! I'm Bryan 👋
 
 I'm a software developer with a passion for solving real-world problems through the power of code! With a diverse background and experience in different fields, I was able to find my true strengths and passions which lie in the world of software development.
 
