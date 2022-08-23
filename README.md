@@ -22,5 +22,6 @@ Hello, I'm Bryan! I'm a software developer with a passion for solving real-world
 <img width="320" alt="Screen Shot 2022-08-16 at 10 36 51 PM" src="https://user-images.githubusercontent.com/93671113/185023033-5212844c-15ce-45ec-9375-aefbce13b71b.png">
 
 ##  📊 GITHUB STATS
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bkim1080&layout=compact)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bkim1080&theme=default&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bkim1080&layout=compact)
+
